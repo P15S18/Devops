@@ -4,6 +4,7 @@ public class Simple
 	{
 
 		Simple si = new Simple ();
+		si.add("Pramod");
 	}
 
 
